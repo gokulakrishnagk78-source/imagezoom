@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+# Ex08  INTERACTIVE IMAGE GALLERY
 ## Date: 10-10-2025
 
 ## AIM
